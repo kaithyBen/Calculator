@@ -1,0 +1,53 @@
+body{
+margin: 0;
+padding: 0;
+}
+
+#mainbody{
+    margin: left 40px;
+    margin-top:12px;
+    background:lightseagreen; 
+    width:338px;
+    height: 430px;
+    border: solid 5px;
+    border-radius: 20px;
+    border-color: rgb(0, 0, 0);
+}
+
+
+.But{
+    width: 736px;
+    height: 370px;
+    margin-left: 2px;
+}
+
+#screen{
+    width: 300px;
+    height:40px ;
+    margin-left: 17px;
+    margin-top:15px ;
+    border-width:5px ;
+    border-color:pink ;
+    border-radius: 10px;
+    font-size:xx-large ;
+    font-family: sans-serif;
+    pointer-events: none;
+}
+
+button{
+    width:57px;
+    height: 45;
+    margin-top:19px;
+    margin-left:20px ;
+    border:solid;
+    border-radius:20px ;
+    font-size: 24px;
+    font: weight 600px;
+    font-family:sans-serif ;
+}
+
+ button:hover{
+    cursor:pointer;
+    background-color:aqua;
+
+} 
